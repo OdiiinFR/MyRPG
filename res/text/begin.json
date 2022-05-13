@@ -1,0 +1,40 @@
+{
+    "size" : 7,
+    "main_char" :   [
+                        4,
+                        "1So tired...",
+                        "1Today was a busy day...",
+                        "1Once home, I'll take a well deserved bath and FINALLY finish this",
+                        "1Netflix series I've been putting on hold ever since the beginning of the week."
+                    ],
+    "NPC1"      :   [
+                        3,
+                        "2Even though I always take this train to go back home,",
+                        "2it always gives me the creeps.",
+                        "1(Same...)"
+                    ],
+    "NPC2"      :   [
+                        2,
+                        "2I always hated crowded cities.",
+                        "2Hopefully, I'll get to leave soon."
+                    ],
+    "Kiosk"     :   [
+                        2,
+                        "1(It's no use...)",
+                        "1(I've never seen it opened since I always come back so late.)"
+                    ],
+    "Objects"   :   [
+                        2,
+                        "1(Just a bunch of useless pamphlets.)",
+                        "1(I wonder why these are even sold.)"
+                    ],
+    "Clock"     :   [
+                        2,
+                        "1(The 29th of February...)",
+                        "1(Truly a lucky day !"
+                    ],
+    "Action"    :   [
+                        1,
+                        "0Will you sit down ?"
+                    ]
+}

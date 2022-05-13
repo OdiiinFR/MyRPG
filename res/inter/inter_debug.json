@@ -1,0 +1,23 @@
+{
+    "size" : 2,
+    "NPC1"  :   [
+                    3,
+                    "./res/spr/npc/test.png",
+                    [2, 700, 700],
+                    [
+                        2,
+                        "2Test1",
+                        "2Test2"
+                    ]
+                ],
+    "NPC2"  :   [
+                    3,
+                    "./res/spr/npc/test.png",
+                    [2, 700, 200],
+                    [
+                        2,
+                        "2We're running out of time.",
+                        "0This is a prompt."
+                    ]
+                ]
+}

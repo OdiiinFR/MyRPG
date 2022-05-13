@@ -1,0 +1,30 @@
+{
+    "size"      :   5,
+    "house1"    :   [
+                        5,
+                        "1Is somebody there ?",
+                        "1I apologize for entering your home this way, however, I need help...",
+                        "1...",
+                        "1(Seems to have been abandonned in a hurry...)",
+                        "1(What happened here ?)"
+                    ],
+    "house2"    :   [
+                        4,
+                        "Why does it feel so cold all of a sudden ?",
+                        "...",
+                        "I don't want to stay in this house any longer.",
+                        "Something's not right in here."
+                    ],
+    "house3"    :   [
+                        3,
+                        "As dead and silent as all the others.",
+                        "This town seems so well kept...",
+                        "Then, why isn't there anybody in here ?"
+                    ],
+    "temple"    :   [
+                        3,
+                        "It's locked.",
+                        "(Something tells me that I shouldn't enter these doors.)",
+                        "(Why is that ?)"
+                    ]
+}
